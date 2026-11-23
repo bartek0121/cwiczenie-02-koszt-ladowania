@@ -28,6 +28,19 @@ Program konsolowy napisany w standardzie **ANSI C (C90)**, umożliwiający wykon
 Projekt kompilowany jest z restrykcyjnymi flagami zgodności ze standardem C90:
 `-std=c90 -Wall -Wextra -Werror -pedantic`
 
+* **Kompilacja:**
+  ```bash
+  make
+  ```
+* **Kompilacja i natychmiastowe uruchomienie:**
+  ```bash
+  make run
+  ```
+* **Usunięcie plików obiektowych i wykonywalnych:**
+  ```bash
+  make clean
+  ```
+
 
 
 ## Kody wyjścia programu
