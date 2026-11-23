@@ -1,0 +1,12 @@
+# Pliki obiektowe i wykonywalne
+*.o
+*.exe
+matrix
+
+#Tymczasowe pliki edytora
+wynik*.txt
+blad*.txt
+
+#Ustawienia edytora
+.vscode/
+
